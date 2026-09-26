@@ -57,20 +57,23 @@ No external files, third-party systems, or unauthorized assets were targeted or 
 | `My Locked PDF2.pdf` | `password1` | Highly common default credential |
 | `My Locked PDF3.pdf` | `1qaz2wsx` | Standard keyboard-walk pattern |
 
-<p align="center">
-  <img width="289" height="112" alt="1" src="https://github.com/user-attachments/assets/a9780f15-94a5-4556-aa57-afd1f38bf713" />
-  <img width="646" height="389" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c00fbe09-9abe-4d8c-a259-22eac55fd1dd" />
-</p>
+
 
 <p align="center">
-  <img width="953" height="410" alt="Screenshot 3" src="https://github.com/user-attachments/assets/3fdd0201-b9f9-49f1-a682-460a48256e50" />
-  <img width="919" height="388" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9c713432-835f-4e00-ae8c-b529ad6af1a2" />
-  <img width="644" height="395" alt="Screenshot 5" src="https://github.com/user-attachments/assets/117dd328-dcf1-426a-9660-dd5e0b79fb53" />
-  <img width="945" height="378" alt="Screenshot 6" src="https://github.com/user-attachments/assets/b51e544d-2d00-4b8c-8df4-29be6ffae0c0" />
-  <img width="911" height="385" alt="Screenshot 7" src="https://github.com/user-attachments/assets/b08c9650-7a25-4ebb-b176-0801f146c836" />
-  <img width="638" height="392" alt="Screenshot 8" src="https://github.com/user-attachments/assets/d8fa4e20-0cbf-4d5c-a4bc-03379a61f264" />
-  <img width="958" height="391" alt="Screenshot 9" src="https://github.com/user-attachments/assets/ad552add-962d-480c-b23e-f16d69fd6ec3" />
-  <img width="943" height="395" alt="Screenshot 10" src="https://github.com/user-attachments/assets/a0a6de29-9746-4cf1-a828-b96422769cc8" />
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/01a94b55-b016-4748-8003-a6ed97e32608" />
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/2f6cae95-1a3d-4fa6-8a23-ccb271c408de" />
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/bcb40302-49ab-455a-b3dc-f10d4dc8b9e3" />
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/12dda5b9-2b7c-472c-93aa-ebc75ab9101c" />
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/e28c7be4-f3a1-4b25-b554-03f4d1abdbbc" />
+<img width="1366" height="768" alt="6" src="https://github.com/user-attachments/assets/bbf62989-ce1f-43df-9a6c-5603f27f28d8" />
+<img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/b026cf84-ea66-4c1e-a926-aff1655636b7" />
+<img width="1366" height="768" alt="8" src="https://github.com/user-attachments/assets/85098a16-eadd-4242-b071-8ac1d7f17a85" />
+<img width="1366" height="768" alt="9" src="https://github.com/user-attachments/assets/d9d5e0fe-63e4-4256-a80e-350b11d3734e" />
+<img width="1366" height="768" alt="10" src="https://github.com/user-attachments/assets/0db32566-d803-417f-ad9f-140af85192df" />
+
+
+
+
 </p>
 
 ---
@@ -99,15 +102,11 @@ This module achieves the same security audit objectives using NetworkWalks' **br
 | `My Locked PDF3.pdf` | `1qaz2wsx` | Dictionary attack via built-in wordlist |
 
 <p align="center">
-  <img width="925" height="393" alt="Screenshot 11" src="https://github.com/user-attachments/assets/f4c08380-24a2-4558-bcba-318d545dcff7" />
-  <img width="932" height="390" alt="Screenshot 12" src="https://github.com/user-attachments/assets/4d4defa6-949a-47b8-8ffb-5a40aeacf4ad" />
-  <img width="917" height="389" alt="Screenshot 13" src="https://github.com/user-attachments/assets/5024b3f5-9ec1-4775-a6f0-8e571520f1dc" />
-  <img width="904" height="338" alt="Screenshot 14" src="https://github.com/user-attachments/assets/c6b35fcf-9b19-47e2-84ee-81fd51e65af2" />
-  <img width="803" height="398" alt="Screenshot 15" src="https://github.com/user-attachments/assets/768b82e9-f181-4e78-93ab-b22882edd87c" />
-  <img width="949" height="396" alt="Screenshot 16" src="https://github.com/user-attachments/assets/a063e9b6-f377-4faf-b4bc-0cfc5e7d896a" />
-  <img width="900" height="401" alt="Screenshot 17" src="https://github.com/user-attachments/assets/8ff49b8c-ad88-4f75-abaf-63c56acdd0dc" />
-  <img width="932" height="346" alt="Screenshot 18" src="https://github.com/user-attachments/assets/69e078a0-b5f2-43c9-8dc4-851051639e4f" />
-  <img width="930" height="396" alt="Screenshot 19" src="https://github.com/user-attachments/assets/4903310e-9fe2-45cc-b1e0-e5f1c77884fc" />
+
+<img width="1366" height="768" alt="11" src="https://github.com/user-attachments/assets/a1d0b985-8163-4585-92fa-d23f5ed467bc" />
+<img width="1366" height="768" alt="12" src="https://github.com/user-attachments/assets/24753d75-1f27-4360-aed0-07fbc27f519a" />
+<img width="1366" height="768" alt="13" src="https://github.com/user-attachments/assets/dda3404f-0c8b-4437-b2d5-235585e02290" />
+<img width="1366" height="768" alt="14" src="https://github.com/user-attachments/assets/0c521638-04d9-421b-bb88-bb7e1fd0e3b2" />
 </p>
 
 ---
