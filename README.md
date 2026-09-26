@@ -58,7 +58,7 @@ No external files, third-party systems, or unauthorized assets were targeted or 
 | `My Locked PDF3.pdf` | `1qaz2wsx` | Standard keyboard-walk pattern |
 
 <p align="center">
-  <img width="289" height="112" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a9780f15-94a5-4556-aa57-afd1f38bf713" />
+  <img width="289" height="112" alt="1" src="https://github.com/user-attachments/assets/a9780f15-94a5-4556-aa57-afd1f38bf713" />
   <img width="646" height="389" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c00fbe09-9abe-4d8c-a259-22eac55fd1dd" />
 </p>
 
